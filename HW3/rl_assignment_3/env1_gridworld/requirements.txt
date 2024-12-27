@@ -1,0 +1,13 @@
+gymnasium==0.29.1
+matplotlib==3.9.2
+numpy==2.1.2
+pandas==2.2.3
+Pillow==10.4.0
+stable_baselines3==2.3.2
+gymnasium==0.29.1
+numpy==2.1.2
+Pillow==10.4.0
+six==1.16.0
+stable_baselines3==2.3.2
+wandb==0.18.3
+tensorboard==2.18.0

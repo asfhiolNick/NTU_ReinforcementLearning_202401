@@ -1,0 +1,12 @@
+Just for reference. Don't need to be exactly the same.
+
+Iterative Policy Evaluation
+Solved in 7568 steps
+
+Policy Iteration
+Solved in 3256 steps
+Start state: 0, End state: 21
+
+Value Iteration
+Solved in 1144 steps
+Start state: 0, End state: 21
